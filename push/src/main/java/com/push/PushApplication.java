@@ -8,6 +8,7 @@ public class PushApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PushApplication.class, args);
+		System.out.println("Nunca se perde, se nunca teve!.!?!");
 	}
 
 }
