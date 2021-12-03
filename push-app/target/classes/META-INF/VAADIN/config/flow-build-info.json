@@ -1,0 +1,16 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\breno\\Documents\\GitHub\\push-app",
+  "generatedFolder": "C:\\Users\\breno\\Documents\\GitHub\\push-app\\target\\frontend",
+  "frontendFolder": "C:\\Users\\breno\\Documents\\GitHub\\push-app\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\breno\\Documents\\GitHub\\push-app\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\breno\\Documents\\GitHub\\push-app\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\breno\\Documents\\GitHub\\push-app\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\breno\\Documents\\GitHub\\push-app\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\breno\\Documents\\GitHub\\push-app\\frontend\\generated",
+  "pnpm.enable": true,
+  "require.home.node": false,
+  "build.folder": "target"
+}
